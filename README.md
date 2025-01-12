@@ -6,6 +6,7 @@ Members are:
 Shemiah Bullong
 
 Jerald Degracia
+
 Mark Jayson Lauzon
 
 Jonabel Rufo
